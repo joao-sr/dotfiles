@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jpsrobarts@gmail.com
+	name = joao robarts
